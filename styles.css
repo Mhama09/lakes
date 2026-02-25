@@ -1,0 +1,19 @@
+h1{
+    color: green;
+}
+
+p1{
+    background: linear-gradient(red, green );
+}
+body{
+
+    background-color: rgb(0, 155, 157);
+}
+h2{
+    color: rgb(50, 50, 100);
+}
+
+.p1{
+    background: radial-gradient(rgb(238, 255, 0), blue);
+
+}
